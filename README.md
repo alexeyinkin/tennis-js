@@ -1,6 +1,9 @@
 # tennis-js
 A [Pong](https://en.wikipedia.org/wiki/Pong) clone for desktop browsers. I created it during a 2h beginners lesson I gave. For this reason it is kept simple, classless and vanilla. This game adds 2D physics to the original one.
 
+# Demo
+Live demo: [https://inkin.ru/download/software/tennis-js/tennis.html](https://inkin.ru/download/software/tennis-js/tennis.html)
+
 ![Screenshot](screen1.png)
 
 ## How to Run
